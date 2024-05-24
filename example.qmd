@@ -3,7 +3,12 @@ title: "example.qmd"
 format: html
 editor: visual
 ---
+<<<<<<< HEAD
 ```{r}
-library(tidyverse)
+
+
+library(fpp3)
+library(dplyr)
+
 ```
 
